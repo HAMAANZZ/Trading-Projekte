@@ -25,7 +25,7 @@ def show_error_message(error_msg):
     root.withdraw()
     messagebox.showerror("Fehler", error_msg)
 
-
+ 
 if __name__ == '__main__':
     # abo ahmed
     apiKey = "xxxx"
