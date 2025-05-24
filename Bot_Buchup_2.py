@@ -19,7 +19,6 @@ import threading
 import time
 import os
 
-
 def show_error_message(error_msg):
     root = tk.Tk()
     root.withdraw()
@@ -27,7 +26,7 @@ def show_error_message(error_msg):
 
  
 if __name__ == '__main__':
-    # abo ahmed
+
     apiKey = "xxxx"
     secretKey = '''xxxx'''
     passphrase = "xxxx"
